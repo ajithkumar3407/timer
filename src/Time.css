@@ -1,0 +1,23 @@
+.card{
+    margin-top: 5%;
+    width: 31% !important;
+}
+.card-body{
+    box-shadow: 0 0 10px rgb(133, 122, 122);
+    border: 1px solid rgb(139, 15, 15);
+    background-color: rgb(200, 181, 218);
+}
+.card-title{
+    font-size: 31px;
+    font-weight: 700;
+}
+.card-text{
+    font-size: 60px;
+}
+span{
+    font-size: 32px;
+}
+
+.stop{
+    margin-left: 55px;
+}
